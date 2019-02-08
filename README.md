@@ -28,7 +28,11 @@ _**Ensure that you replace all “REPLACE_ME” fields in the file with apt para
 **Input Parameters:**
 
 * Activation ID:
+An ID to authenticate agents so that they could be grouped and bind to your account
+
 * Customer ID:
+An ID to identify your account
+
 * URL to download the installation file: 
 
 Redeploy your applications and CA will be installed in underlying infrastructure and starts continuously monitoring your elastic beanstalk environment.
